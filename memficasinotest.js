@@ -7,7 +7,7 @@
 // @icon         https://s2.coinmarketcap.com/static/img/coins/64x64/29373.png
 // @downloadURL  https://github.com/btc63amg/memefitest1/raw/refs/heads/main/memficasinotest.js
 // @updateURL    https://github.com/btc63amg/memefitest1/raw/refs/heads/main/memficasinotest.js
-// @homepage     https://github.com/btc63amg
+// @homepage     https://github.com/btc63amg/memefitest1
 // ==/UserScript==
 
 let GAME_SETTINGS = {
